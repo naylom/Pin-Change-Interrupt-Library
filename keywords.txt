@@ -9,4 +9,4 @@ AddPin	KEYWORD2
 # Instances (KEYWORD2)
 
 # Constants (LITERAL1)
-
+MAX_PCI_PINS  LITERAL1
