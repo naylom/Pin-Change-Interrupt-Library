@@ -5,9 +5,7 @@
 	KEYWORD1
 
 # Methods and Functions (KEYWORD2)
-AddMotor	KEYWORD2
-On	KEYWORD2
-Off	KEYWORD2
+AddPin	KEYWORD2
 
 # Instances (KEYWORD2)
 
