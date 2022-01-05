@@ -1,8 +1,7 @@
 # Syntax Coloring Map For PCIHandler library
 
 # Datatypes (KEYWORD1)
-	KEYWORD1
-	KEYWORD1
+InterruptCallback	KEYWORD1
 
 # Methods and Functions (KEYWORD2)
 AddPin	KEYWORD2
