@@ -1,0 +1,15 @@
+# Syntax Coloring Map For PCIHandler library
+
+# Datatypes (KEYWORD1)
+	KEYWORD1
+	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+AddMotor	KEYWORD2
+On	KEYWORD2
+Off	KEYWORD2
+
+# Instances (KEYWORD2)
+
+# Constants (LITERAL1)
+
